@@ -1,0 +1,39 @@
+Name : Tejas Devidas Tekade 
+Roll No : 97 
+Practical No : 4
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>Practical 4</title>
+ <style>
+ div{
+ background-color:yellow;
+ font-size: 55px;
+ text-align:center;
+ margin-top: 50px;
+ margin-left: 500px;
+ margin-right: 500px;
+ border: 4PX solid #e00be7;
+ }
+ </style>
+</head>
+<body bgcolor="pink">
+ <h1 style="text-align:center;color:red; font-size: 70px;">
+ Myself Tejas,<br>
+ <h2 style="text-align:center"> You may connect to me through the below links.</h2>
+</h1>
+<div>
+<a href="https://www.Linkedin.com/in/tejas-tekade-2b235a249"=>Linkedin</a>
+</div>
+<div>
+<a href="https://github.com/Tekadeteju16">GitHub</a>
+</div>
+<div>
+<a href="mailto:tejastekade2004@gmail.com">Gmail</a>
+</div>
+<div>
+<a href="https://instagram.com/tekade_teju_?igshid=YmMyMTA2M2Y="> know more,</a>
+</div>
+</body>
+</html>
